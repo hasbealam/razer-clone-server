@@ -1,5 +1,5 @@
 {
-  "name": "test_api",
+  "name": "razer-clone-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vishalll069/test_api.git"
+    "url": "git+https://github.com/hasbealam/razer-clone-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vishalll069/test_api/issues"
+    "url": "https://github.com/hasbealam/razer-clone-server/issues"
   },
-  "homepage": "https://github.com/Vishalll069/test_api#readme",
+  "homepage": "https://github.com/hasbealam/razer-clone-server#readme",
   "dependencies": {
     "json-serve": "^0.1.0",
     "json-server": "^0.17.2"
